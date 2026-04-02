@@ -78,7 +78,7 @@ NETFALCON/
 ├── templates/
 │   ├── index.html              # Main dashboard template
 │   ├── history.html            # Time travel panel template
-│   └── report.html             # Report export template
+│   
 │
 ├── static/
 │   ├── css/
